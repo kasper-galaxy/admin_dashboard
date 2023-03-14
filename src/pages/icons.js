@@ -15,13 +15,7 @@ import {
   Unstable_Grid2 as Grid,
 } from "@mui/material";
 
-const icons = [
-  <CogIcon />,
-  <DocumentTextIcon />,
-  <HomeIcon />,
-  <ShoppingCartIcon />,
-  // <StarIcon />
-];
+const icons = [<CogIcon />, <DocumentTextIcon />, <HomeIcon />, <ShoppingCartIcon />, <StarIcon />];
 
 const Page = () => (
   <>
