@@ -58,7 +58,7 @@ const Page = () => (
                   <Stack alignItems="center" direction="row" spacing={2} sx={{ p: 3 }}>
                     {icons.map((icon, index) => (
                       <SvgIcon key={index} sx={{ color: "neutral.600" }}>
-                        {/* {icon} */}
+                        {icon}
                       </SvgIcon>
                     ))}
                   </Stack>
