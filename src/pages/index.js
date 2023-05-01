@@ -23,7 +23,7 @@ const now = new Date();
 const Page = () => (
   <>
     <Helmet>
-      <title>BITONITE</title>
+      <title>BITONITE1</title>
     </Helmet>
     <Box
       sx={{
