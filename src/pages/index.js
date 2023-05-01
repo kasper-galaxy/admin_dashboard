@@ -34,7 +34,7 @@ const Page = () => (
       <Container maxWidth="xl">
         <Stack spacing={3}>
           <div>
-            <Typography variant="h4">BTC Stats</Typography>
+            <Typography variant="h4">BTC Stats!!!</Typography>
           </div>
           <div>
             <Grid container spacing={3}>
