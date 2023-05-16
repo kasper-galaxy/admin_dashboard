@@ -46,7 +46,7 @@ const Page = () => (
                       target="_blank"
                       variant="inherit"
                     >
-                      Hero IconsAAA@@@@
+                      Hero Icons_galaxy
                     </Link>{" "}
                     for displaying icons as we think it reflects the clean and light style of the
                     Carpatin Design System. ///
