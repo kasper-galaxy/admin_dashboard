@@ -46,7 +46,11 @@ const Page = () => (
                       target="_blank"
                       variant="inherit"
                     >
+<<<<<<< HEAD
                       {/* Hero Icons */}
+=======
+                      Hero Icons_galaxy
+>>>>>>> 9683ae9cc2ab2c0d4de22afca637c0de19ee7f16
                     </Link>{" "}
                     for displaying icons as we think it reflects the clean and light style of the
                     Carpatin Design System. ///
